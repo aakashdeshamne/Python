@@ -1,21 +1,21 @@
-day,pizza type,unit sold,new_prices_per_unit
-Monday,Margherita,45,99
-Tuesday,Pepperoni,67,150
-Wednesday,Hawaiian,32,160
-Thursday,Veggie Supreme,28,210
-Friday,Meat Lovers,89,200
-Saturday,BBQ Chicken,76,180
-Sunday,Four Cheese,54,170
-Monday,Pepperoni,52,150
-Tuesday,Margherita,38,99
-Wednesday,Buffalo Chicken,41,190
-Thursday,Hawaiian,29,160
-Friday,Veggie Supreme,35,210
-Saturday,Margherita,68,99
-Sunday,Pepperoni,83,150
-Monday,Meat Lovers,47,200
-Tuesday,BBQ Chicken,39,180
-Wednesday,Four Cheese,44,170
-Thursday,Margherita,56,99
-Friday,Hawaiian,33,160
-Saturday,Pepperoni,91,150
+day,pizza type,unit sold,new_prices_per_unit,revenue
+Monday,Margherita,45,99,4455
+Tuesday,Pepperoni,67,150,10050
+Wednesday,Hawaiian,32,160,5120
+Thursday,Veggie Supreme,28,210,5880
+Friday,Meat Lovers,89,200,17800
+Saturday,BBQ Chicken,76,180,13680
+Sunday,Four Cheese,54,170,9180
+Monday,Pepperoni,52,150,7800
+Tuesday,Margherita,38,99,3762
+Wednesday,Buffalo Chicken,41,190,7790
+Thursday,Hawaiian,29,160,4640
+Friday,Veggie Supreme,35,210,7350
+Saturday,Margherita,68,99,6732
+Sunday,Pepperoni,83,150,12450
+Monday,Meat Lovers,47,200,9400
+Tuesday,BBQ Chicken,39,180,7020
+Wednesday,Four Cheese,44,170,7480
+Thursday,Margherita,56,99,5544
+Friday,Hawaiian,33,160,5280
+Saturday,Pepperoni,91,150,13650
